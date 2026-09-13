@@ -21,6 +21,10 @@ Minimal reproduction for: [benjaminkomen/solar-array-simulator#79](https://githu
 
 Replace `style={{ width: '100%' }}` with `style={{ width: Dimensions.get('window').width }}`.
 
+## Recording
+
+![crash recording](crash.mp4)
+
 ## Environment
 
 - Expo SDK 57
