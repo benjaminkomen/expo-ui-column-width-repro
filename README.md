@@ -23,7 +23,7 @@ Replace `style={{ width: '100%' }}` with `style={{ width: Dimensions.get('window
 
 ## Recording
 
-![crash recording](crash.mp4)
+![crash recording](https://github.com/user-attachments/assets/21936c5e-80aa-4d11-b50d-9d719e280274)
 
 ## Environment
 
