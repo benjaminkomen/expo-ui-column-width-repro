@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "expo-ui-column-width-repro",
+    "slug": "expo-ui-column-width-repro",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["android"],
+    "android": {
+      "package": "com.benjaminkomen.expouicolumnwidthrepro"
+    }
+  }
+}
